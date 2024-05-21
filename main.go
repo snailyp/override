@@ -20,7 +20,7 @@ import (
 	"time"
 )
 
-const InstructModel = "gpt-3.5-turbo-instruct"
+const InstructModel = "deepseek-coder"
 
 // 导入的包在这里不做注释
 
